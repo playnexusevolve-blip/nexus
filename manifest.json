@@ -2,7 +2,7 @@
   "name": "NEXUS — Discover. Adapt. Evolve.",
   "short_name": "NEXUS",
   "description": "A pattern-discovery puzzle game where you place seeds, watch them evolve by hidden rules, and outscore evolution itself.",
-  "start_url": "/index.html",
+  "start_url": "/nexus/index.html",
   "display": "standalone",
   "background_color": "#0a0a12",
   "theme_color": "#0a0a12",
