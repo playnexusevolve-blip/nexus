@@ -1,11 +1,12 @@
 const CACHE_NAME = 'nexus-v3';
 const ASSETS = [
   '/',
-  '/index.html',
-  '/manifest.json',
-  '/favicon.ico',
-  '/icons/icon-192x192.png',
-  '/icons/icon-512x512.png',
+  '/nexus/',
+  '/nexus/index.html',
+  '/nexus/manifest.json',
+  '/nexus/favicon.ico',
+  '/nexus/icons/icon-192x192.png',
+  '/nexus/icons/icon-512x512.png',
   'https://fonts.googleapis.com/css2?family=Orbitron:wght@400;700;900&family=Rajdhani:wght@300;400;600;700&display=swap'
 ];
 
